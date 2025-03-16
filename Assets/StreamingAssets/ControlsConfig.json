@@ -1,0 +1,376 @@
+{
+    "ModesData": [
+        {
+            "ModeName": "Combat mode",
+            "ModeId": 0,
+            "ConfigsData": [
+                {
+                    "ConfigName": "Layout A",
+                    "ConfigId": 0,
+                    "ButtonsData": [
+                        {
+                            "ButtonName": "JumpButton",
+                            "ButtonId": 12,
+                            "ButtonPosition": {
+                                "x": 731.0,
+                                "y": -200.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        },
+                        {
+                            "ButtonName": "MeleeButton",
+                            "ButtonId": 10,
+                            "ButtonPosition": {
+                                "x": 348.0,
+                                "y": -407.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        },
+                        {
+                            "ButtonName": "CrouchButton",
+                            "ButtonId": 11,
+                            "ButtonPosition": {
+                                "x": 659.0,
+                                "y": -406.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        },
+                        {
+                            "ButtonName": "MovementJoystick",
+                            "ButtonId": 13,
+                            "ButtonPosition": {
+                                "x": -579.0,
+                                "y": -227.0
+                            },
+                            "ButtonSize": {
+                                "x": 400.0,
+                                "y": 400.0
+                            }
+                        },
+                        {
+                            "ButtonName": "ShootButton",
+                            "ButtonId": 9,
+                            "ButtonPosition": {
+                                "x": 487.0,
+                                "y": -269.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "ConfigName": "Layout B",
+                    "ConfigId": 1,
+                    "ButtonsData": [
+                        {
+                            "ButtonName": "JumpButton",
+                            "ButtonId": 12,
+                            "ButtonPosition": {
+                                "x": 731.0,
+                                "y": -200.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        },
+                        {
+                            "ButtonName": "MeleeButton",
+                            "ButtonId": 10,
+                            "ButtonPosition": {
+                                "x": 348.0,
+                                "y": -407.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        },
+                        {
+                            "ButtonName": "CrouchButton",
+                            "ButtonId": 11,
+                            "ButtonPosition": {
+                                "x": 659.0,
+                                "y": -406.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        },
+                        {
+                            "ButtonName": "MovementJoystick",
+                            "ButtonId": 13,
+                            "ButtonPosition": {
+                                "x": -579.0,
+                                "y": -227.0
+                            },
+                            "ButtonSize": {
+                                "x": 400.0,
+                                "y": 400.0
+                            }
+                        },
+                        {
+                            "ButtonName": "ShootButton",
+                            "ButtonId": 9,
+                            "ButtonPosition": {
+                                "x": 487.0,
+                                "y": -269.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "ConfigName": "Layout C",
+                    "ConfigId": 2,
+                    "ButtonsData": [
+                        {
+                            "ButtonName": "JumpButton",
+                            "ButtonId": 12,
+                            "ButtonPosition": {
+                                "x": 731.0,
+                                "y": -200.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        },
+                        {
+                            "ButtonName": "MeleeButton",
+                            "ButtonId": 10,
+                            "ButtonPosition": {
+                                "x": 348.0,
+                                "y": -407.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        },
+                        {
+                            "ButtonName": "CrouchButton",
+                            "ButtonId": 11,
+                            "ButtonPosition": {
+                                "x": 659.0,
+                                "y": -406.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        },
+                        {
+                            "ButtonName": "MovementJoystick",
+                            "ButtonId": 13,
+                            "ButtonPosition": {
+                                "x": -579.0,
+                                "y": -227.0
+                            },
+                            "ButtonSize": {
+                                "x": 400.0,
+                                "y": 400.0
+                            }
+                        },
+                        {
+                            "ButtonName": "ShootButton",
+                            "ButtonId": 9,
+                            "ButtonPosition": {
+                                "x": 487.0,
+                                "y": -269.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ModeName": "Minigame mode",
+            "ModeId": 1,
+            "ConfigsData": [
+                {
+                    "ConfigName": "Layout A",
+                    "ConfigId": 0,
+                    "ButtonsData": [
+                        {
+                            "ButtonName": "DownButton",
+                            "ButtonId": 8,
+                            "ButtonPosition": {
+                                "x": -580.0,
+                                "y": -390.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        },
+                        {
+                            "ButtonName": "LeftButton",
+                            "ButtonId": 5,
+                            "ButtonPosition": {
+                                "x": -784.0,
+                                "y": -228.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        },
+                        {
+                            "ButtonName": "RightButton",
+                            "ButtonId": 6,
+                            "ButtonPosition": {
+                                "x": -384.0,
+                                "y": -227.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        },
+                        {
+                            "ButtonName": "UpButton",
+                            "ButtonId": 7,
+                            "ButtonPosition": {
+                                "x": -580.0,
+                                "y": -60.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "ConfigName": "Layout B",
+                    "ConfigId": 1,
+                    "ButtonsData": [
+                        {
+                            "ButtonName": "DownButton",
+                            "ButtonId": 8,
+                            "ButtonPosition": {
+                                "x": -580.0,
+                                "y": -390.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        },
+                        {
+                            "ButtonName": "LeftButton",
+                            "ButtonId": 5,
+                            "ButtonPosition": {
+                                "x": -784.0,
+                                "y": -228.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        },
+                        {
+                            "ButtonName": "RightButton",
+                            "ButtonId": 6,
+                            "ButtonPosition": {
+                                "x": -384.0,
+                                "y": -227.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        },
+                        {
+                            "ButtonName": "UpButton",
+                            "ButtonId": 7,
+                            "ButtonPosition": {
+                                "x": -580.0,
+                                "y": -60.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "ConfigName": "Layout C",
+                    "ConfigId": 2,
+                    "ButtonsData": [
+                        {
+                            "ButtonName": "DownButton",
+                            "ButtonId": 8,
+                            "ButtonPosition": {
+                                "x": -580.0,
+                                "y": -390.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        },
+                        {
+                            "ButtonName": "LeftButton",
+                            "ButtonId": 5,
+                            "ButtonPosition": {
+                                "x": -784.0,
+                                "y": -228.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        },
+                        {
+                            "ButtonName": "RightButton",
+                            "ButtonId": 6,
+                            "ButtonPosition": {
+                                "x": -384.0,
+                                "y": -227.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        },
+                        {
+                            "ButtonName": "UpButton",
+                            "ButtonId": 7,
+                            "ButtonPosition": {
+                                "x": -580.0,
+                                "y": -60.0
+                            },
+                            "ButtonSize": {
+                                "x": 160.0,
+                                "y": 160.0
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
