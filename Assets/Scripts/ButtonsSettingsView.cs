@@ -105,12 +105,6 @@ public partial class ButtonsSettingsView : MonoBehaviour
         }
     }
 
-    private void UpdateSliderText()
-    {
-        var sliderPercentage = (m_sizeSlider.value - m_sizeSlider.minValue) / (m_sizeSlider.maxValue - m_sizeSlider.minValue) * 200;
-        m_sliderValueText.text = $"{Mathf.RoundToInt(sliderPercentage)} %";
-    }
-
     //Button have reference for this method and it's called when button is clicked
     public void OpenSettings()
     {
@@ -146,6 +140,12 @@ public partial class ButtonsSettingsView : MonoBehaviour
         }
 
         LoadModes();
+    }
+
+    private void UpdateSliderText()
+    {
+        var sliderPercentage = (m_sizeSlider.value - m_sizeSlider.minValue) / (m_sizeSlider.maxValue - m_sizeSlider.minValue) * 200;
+        m_sliderValueText.text = $"{Mathf.RoundToInt(sliderPercentage)} %";
     }
 
     private void UpdateButtonSize(float value)
